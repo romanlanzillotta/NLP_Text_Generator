@@ -1,0 +1,2 @@
+https://github.com/hyperskill/hs-test-python/archive/release.tar.gz
+nltk~=3.8.1
